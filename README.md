@@ -29,7 +29,7 @@ Bootstrap (opcional, para el diseño)
 📦 Instalación
 Clona el repositorio:
 
-git clone https://github.com/hortegon/blog_1.git
+git clone https://github.com/SantiagoA444/blog_1.git
 cd blog_1
 
 Desarrollado por @SantiagoA444
