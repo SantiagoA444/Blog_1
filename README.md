@@ -34,3 +34,4 @@ cd blog_1
 
 Desarrollado por @SantiagoA444
 (SANTIAGO ALFARO 11-15)
+Creditos: @hortegon
