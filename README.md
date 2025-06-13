@@ -32,6 +32,6 @@ Clona el repositorio:
 git clone https://github.com/SantiagoA444/blog_1.git
 cd blog_1
 
-Desarrollado por @SantiagoA444
+Desarrollado por @hortegon
 (SANTIAGO ALFARO 11-15)
-Creditos: @hortegon
+
